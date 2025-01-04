@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neoleo3
+- 👋 Hi, I’m sathyajit.
 - 👀 I’m interested in Data Science and Programming
 - 🌱 I’m currently learning Data Science
 - 👀 I’m looking to collaborate on Projects related to Data Engineering

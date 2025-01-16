@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sathyajit G A!
 
 Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** with a passion for turning data into actionable insights and solving business problems. My work combines analytical thinking, technical skills, and business acumen to drive decision-making and create value.
 

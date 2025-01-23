@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** w
 - 🎓 **Education**: [B. Tech in Automobile Engineering]
 - 📍 **Location**: Tumkuru, karnataka, India-572103
 - 🛠️ **Skills**:
-  - **Programming & Tools**:  SQL, Excel
+  - **Programming & Tools**:  SQL, Excel, Python
   - **Databases**: MySQL
   - **Techniques**: Data Cleaning, Data Visualization, Statistical Analysis, Dashboard Creation
   - **Methodologies**: Business Analysis, KPI Design, Forecasting, A/B Testing

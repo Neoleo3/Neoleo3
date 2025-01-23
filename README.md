@@ -18,24 +18,17 @@ Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** w
 ## 📈 My Work and Projects
 Here are some of the exciting projects I’ve worked on:
 
-### 1. **Business Analysis Using MySQL**  
-- 📝 Analyzed customer, employee, product, and order data to uncover trends and optimize operations.
-- 🔗 [Project Repository](https://github.com/yourusername/business-analysis-mysql)
+### 1. **Automobile_Sales_Analaysis_Excel**  
+- 📝 In this project, focused automobile market research analysis is performed, specifically targeting car manufacturers. I have employed descriptive analysis with the help of fundamental statistical techniques and basic data visualization techniques using MS Excel that effectively communicate key findings. 
+- 🔗 [Project Repository](https://github.com/Neoleo3/Automobile_Sales_Analaysis_Excel)
 
-### 2. **Sales Dashboard with Power BI**  
-- 📊 Built an interactive dashboard to visualize sales performance and identify top-performing products.
-- 🔗 [View Project](https://github.com/yourusername/sales-dashboard)
+### 2. **Coffee_Shop_Analysis_Excel**  
+- 📊 The main objective of the analysis is to gain insights that will enhance the performance of the coffee shop.
+- 🔗 [View Project](https://github.com/Neoleo3/Coffee_Shop_Analysis_Excel)
 
-### 3. **Customer Segmentation with Python**  
-- 🛒 Performed clustering analysis to segment customers based on purchasing behavior.
-- 🔗 [View Project](https://github.com/yourusername/customer-segmentation)
-
----
-
-## 🌟 Highlights
-- 🏆 Completed [Certification Name] (e.g., Google Data Analytics Certificate).
-- 📚 Lifelong learner with expertise in courses on Coursera, edX, and Udemy.
-- 💡 Passionate about using data storytelling to drive impactful business decisions.
+### 3. **Business Analysis Using MySQL**  
+- 🛒 The project focuses on analyzing various aspects of a business, including customer data, office operations, employee information, product inventory, and order management.
+- 🔗 [View Project](https://github.com/Neoleo3/Business-Analysis)
 
 ---
 

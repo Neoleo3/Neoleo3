@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** w
 ## 📈 My Work and Projects
 Here are some of the exciting projects I’ve worked on:
 
-### 1. **Automobile_Sales_Analaysis_Excel**  
+### 1. **Automobile Sales Analaysis Excel**  
 - 📝 In this project, focused automobile market research analysis is performed, specifically targeting car manufacturers. I have employed descriptive analysis with the help of fundamental statistical techniques and basic data visualization techniques using MS Excel that effectively communicate key findings. 
 - 🔗 [Project Repository](https://github.com/Neoleo3/Automobile_Sales_Analaysis_Excel)
 
-### 2. **Coffee_Shop_Analysis_Excel**  
+### 2. **Coffee Shop Analysis Excel**  
 - 📊 The main objective of the analysis is to gain insights that will enhance the performance of the coffee shop.
 - 🔗 [View Project](https://github.com/Neoleo3/Coffee_Shop_Analysis_Excel)
 

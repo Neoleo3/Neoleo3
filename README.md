@@ -1,6 +1,6 @@
 # Hi, I'm Sathyajit G A!
 
-Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** with a passion for turning data into actionable insights and solving business problems. My work combines analytical thinking, technical skills, and business acumen to drive decision-making and create value.
+Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst**
 
 ---
 
@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst** w
 - **Education**: [B. Tech in Automobile Engineering]
 - **Location**: Tumkuru, karnataka, India-572103
 - **Skills**:
-  - **Programming & Tools**:  SQL, Excel, Python
+  - **Programming & Tools**:  SQL, Excel, Python, Power BI, Tableau
   - **Databases**: MySQL
-  - **Techniques**: Data Cleaning, Data Visualization, Statistical Analysis, Dashboard Creation
+  - **Techniques**: Data Cleaning, Data Visualization, Statistical Analysis, Dashboard Creation, API Integration
   - **Methodologies**: Business Analysis, KPI Design, Forecasting, A/B Testing
 
 ---

@@ -38,5 +38,5 @@ Here are some of the exciting projects I’ve worked on:
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me if you’d like to collaborate or discuss data-driven solutions. 🚀
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me if you’d like to collaborate or discuss data-driven solutions. 
 

@@ -22,11 +22,11 @@ Here are some of the exciting projects I’ve worked on:
 - In this project, focused football data analysis is performed. Concentrating on key areas like player performance, team performance, stadium and attendance analysis. Employed MS Excel, MySQL,Tableau, Python and predictive modelling to answer key business questions.
 - [Project Repository](https://github.com/Neoleo3/Football-Data-Analysis-)
 
-### 2. **Coffee Shop Analysis Excel**  
+### 2. **Hotel Booking Analysis**  
 - The main objective of the analysis is to gain insights that will enhance the performance of the coffee shop.
 - [View Project](https://github.com/Neoleo3/Coffee_Shop_Analysis_Excel)
 
-### 3. **Business Analysis Using MySQL**  
+### 3. **Employee Absenteesim Analysis**  
 - The project focuses on analyzing various aspects of a business, including customer data, office operations, employee information, product inventory, and order management.
 - [View Project](https://github.com/Neoleo3/Business-Analysis)
 

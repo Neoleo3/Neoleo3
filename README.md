@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a **Data Analyst** and **Business Analyst**
 Here are some of the exciting projects I’ve worked on:
 
 ### 1. **Football Data Analysis**  
-- In this project, focused football data analysis is performed. Concentrating on key areas like player performance, team performance, stadium and attendance analysis. Employed MySQl, Python and predictive modelling to answer key business questions.
+- In this project, focused football data analysis is performed. Concentrating on key areas like player performance, team performance, stadium and attendance analysis. Employed MS Excel, MySQL,Tableau, Python and predictive modelling to answer key business questions.
 - [Project Repository](https://github.com/Neoleo3/Football-Data-Analysis-)
 
 ### 2. **Coffee Shop Analysis Excel**  
